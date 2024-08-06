@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287848300229",
+    "project_id": "appocgf01",
+    "storage_bucket": "appocgf01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287848300229:android:16097c47857bd81db73aac",
+        "android_client_info": {
+          "package_name": "com.appOCGF.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKhh6GWMfRumH53pnbw7TF2N7os2YAhZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
